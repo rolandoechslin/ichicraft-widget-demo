@@ -1,0 +1,20 @@
+{
+    "adminConfigFormInvalidMessage": "Forneça um valor para todos os campos obrigatórios.",
+    "adminConfigNumberOfLikesInvalidError": "Forneça um número no intervalo de 1 a 5",
+    "allowShowInfoConfigToggleLabel": "Permitir que os usuários configurem \"Mostrar informações\".",
+    "blue": "Azul",
+    "exampleNotification": "Este é um exemplo de notificação enviada pelo widget Demo 1 . Ele se autodestruirá em 20 segundos.",
+    "green": "Verde",
+    "greeting": "Olá, widget do Demo 1 ",
+    "instanceIdLabel": "ID da instância",
+    "magenta": "Magenta",
+    "manifestIdLabel": "ID de manifesto",
+    "numberOfLikesLabel": "Número de curtidas",
+    "pickAColor": "Escolha uma cor",
+    "red": "Vermelho",
+    "showInfoToggleLabel": "Mostrar informações",
+    "userConfigColorFieldRequiredError": "Por favor escolha uma cor",
+    "userConfigFormInvalidMessage": "Forneça um valor para todos os campos obrigatórios.",
+    "widgetSettings": "Configurações de widget",
+    "yellow": "Amarelo"
+}

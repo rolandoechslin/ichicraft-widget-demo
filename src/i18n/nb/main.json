@@ -1,0 +1,20 @@
+{
+    "adminConfigFormInvalidMessage": "Oppgi en verdi for alle obligatoriske felt.",
+    "adminConfigNumberOfLikesInvalidError": "Oppgi nummer i området 1 til 5",
+    "allowShowInfoConfigToggleLabel": "Tillat brukere å konfigurere \"Vis info\".",
+    "blue": "Blå",
+    "exampleNotification": "Dette er et eksempel på varsel sendt av Demo 1-modulen. Det vil selv ødelegge i løpet av 20 sekunder.",
+    "green": "Grønn",
+    "greeting": "Hei der, Demo 1 widget",
+    "instanceIdLabel": "Forekomst-ID",
+    "magenta": "Magenta",
+    "manifestIdLabel": "Manifest ID",
+    "numberOfLikesLabel": "Antall likes",
+    "pickAColor": "Velg en farge",
+    "red": "Rød",
+    "showInfoToggleLabel": "Vis info",
+    "userConfigColorFieldRequiredError": "Velg en farge",
+    "userConfigFormInvalidMessage": "Oppgi en verdi for alle obligatoriske felt.",
+    "widgetSettings": "Innstillinger for widget",
+    "yellow": "Gul"
+}

@@ -1,0 +1,12 @@
+{
+  "@ichicraft/generator-widgets": {
+    "widgetName": "Demo 1",
+    "widgetDescription": "Description for the Demo 1 widget.",
+    "framework": "react",
+    "userConfigurable": true,
+    "adminConfigurable": true,
+    "widgetId": "ec6f2af5-c417-4ed5-8c38-006af2323ac0",
+    "debugBoardUrl": "https://garaioag874.sharepoint.com/sites/IchicraftDev",
+    "generatorVersion": "1.4.0"
+  }
+}

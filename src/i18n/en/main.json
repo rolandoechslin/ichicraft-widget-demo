@@ -1,0 +1,20 @@
+{
+    "adminConfigFormInvalidMessage": "Please provide a value for all required fields.",
+    "adminConfigNumberOfLikesInvalidError": "Provide number in range 1 to 5",
+    "allowShowInfoConfigToggleLabel": "Allow users to configure \"Show info\".",
+    "blue": "Blue",
+    "exampleNotification": "This is an example notification sent by the Demo 1 widget. It will self destruct in 20 seconds.",
+    "green": "Green",
+    "greeting": "Hey there, Demo 1 widget",
+    "instanceIdLabel": "Instance ID",
+    "magenta": "Magenta",
+    "manifestIdLabel": "Manifest ID",
+    "numberOfLikesLabel": "Number of likes",
+    "pickAColor": "Pick a color",
+    "red": "Red",
+    "showInfoToggleLabel": "Show info",
+    "userConfigColorFieldRequiredError": "Please pick a color",
+    "userConfigFormInvalidMessage": "Please provide a value for all required fields.",
+    "widgetSettings": "Widget settings",
+    "yellow": "Yellow"
+}

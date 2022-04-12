@@ -1,0 +1,20 @@
+{
+    "adminConfigFormInvalidMessage": "Geef een waarde op voor alle verplichte velden.",
+    "adminConfigNumberOfLikesInvalidError": "Geef een nummer op tussen 1 en 5",
+    "allowShowInfoConfigToggleLabel": "Sta gebruikers toe om \"Toon info\" te configureren.",
+    "blue": "Blauw",
+    "exampleNotification": "Dit is een voorbeeldmelding die wordt verzonden door het Demo 1-widget. Het zal zichzelf binnen 20 seconden vernietigen.",
+    "green": "Groen",
+    "greeting": "Hallo daar, Demo 1 widget",
+    "instanceIdLabel": "Instantie-ID",
+    "magenta": "Magenta",
+    "manifestIdLabel": "Manifest-ID",
+    "numberOfLikesLabel": "Aantal likes",
+    "pickAColor": "Kies een kleur",
+    "red": "Rood",
+    "showInfoToggleLabel": "Toon info",
+    "userConfigColorFieldRequiredError": "Kies alstublieft een kleur",
+    "userConfigFormInvalidMessage": "Geef een waarde op voor alle verplichte velden.",
+    "widgetSettings": "Widgetinstellingen",
+    "yellow": "Geel"
+}

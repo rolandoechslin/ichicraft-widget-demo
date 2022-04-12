@@ -15,3 +15,9 @@ npm install @ichicraft/generator-widgets --global
 ```Powershell
 yo @ichicraft/widgets
 ```
+
+debugBoardUrl
+
+```Powershell
+https://garaioag874.sharepoint.com/sites/IchicraftDev
+```
